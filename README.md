@@ -4,6 +4,5 @@
 
 <i>Traducción al español de Umamusume: Pretty Derby (versión global)</i>
 </h2>
-### Próximamente...
-------------
-### Próximamente...
+
+<h2>Próximamente...</h2>

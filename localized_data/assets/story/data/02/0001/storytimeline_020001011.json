@@ -1,0 +1,76 @@
+{
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Por favor, Asistente de Entrenador! ¿No puedes ir<n>más rápido?!"
+        },
+        {
+            "text": "Una multitud bulliciosa llena por completo las<n>\ngradas del Hipódromo de Nakayama.",
+            "name": "Monologue"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen y yo nos abrimos paso entre\n<n>decenas de fanáticos que animan mientras nos<n>dirigimos al frente."
+        },
+        {
+            "text": "Mejiro McQueen y yo nos abrimos paso entre\n<n>decenas de fanáticos que animan mientras nos<n>dirigimos al frente.",
+            "name": "Monologue"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Nunca podría perdonarme a mí misma si<n>me perdiera el gran final de Oguri!"
+        },
+        {
+            "name": "<username>",
+            "text": "En ese caso, ¿no deberíamos habernos quedado<n>viendo desde el palco del staff?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Como ya dije, necesito ver su deslumbrante figura<n>\nde cerca en esta carrera tan importante!"
+        },
+        {
+            "name": "Locutor",
+            "text": "¡Las demás corredoras se acercan, pero Oguri<n>\nmantiene la delantera! ¡Oguri lidera!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Oh no, están a punto de cruzar la meta!<n>¡Vamos, toma mi mano!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro McQueen aprieta mi mano con un<n>firme agarre y \nme arrastra a través de la<n>multitud."
+        },
+        {
+            "text": "Mejiro McQueen aprieta mi mano con un<n>firme agarre y \nme arrastra a través de la<n>multitud.",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Un último tirón de McQueen y, en ese<n>instante, el espectáculo se abre ante nosotros."
+        },
+        {
+            "name": "Locutor",
+            "text": "¡Oguri mantiene la delantera para un final brillante!<n>\n¡Oguri llega primera! ¡Oguri gana!"
+        },
+        {
+            "text": "¡La estrella Umamusume Oguri Cap lo ha<n>logrado! \n¡Una victoria milagrosa en la última<n>carrera de la Serie Twinkle!",
+            "name": "Locutor"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Wooooow!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nunca olvidaré el prodigio, el milagro,<n>que se desplegó ante mis ojos hoy."
+        },
+        {
+            "text": "Nunca olvidaré el prodigio, el milagro,<n>que se desplegó ante mis ojos hoy.",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Increíble... ¡Simplemente deslumbrante! ¡De verdad ganó!"
+        }
+    ]
+}

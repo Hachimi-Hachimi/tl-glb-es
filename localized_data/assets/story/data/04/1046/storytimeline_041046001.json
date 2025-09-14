@@ -1,0 +1,248 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "He tenido un día agotador, entrando y saliento de la academia para preparar\nlas pruebas de mañana."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Va a ser un gran evento, especialmente para<n>corredoras que esperan ser observadas.\nMientras camino a casa nervioso por mañana, me<n>topo con una vista curiosa."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hmm-hm-hm, hm-hm-hm! ♪\nHmm-hm-hm,<n>hm-hm-hm-hmm! ♪",
+            "choice_data_list": [
+                "(¿Está ella... actuando?)",
+                "(¿Está ella... actuando?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "No está arreglada ni siquiera tiene un micrófono —y ni hablar\nde la completa ausencia de público."
+        },
+        {
+            "text": "A pesar de todo, lo da todo al cantar y bailar, casi parece\nbrillar cuando la luz del atardecer la alumbra.",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ah..."
+        },
+        {
+            "text": "Ehehe! ♪",
+            "name": "Smart Falcon"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Me detengo en seco para observarla —no por cansancio, sino por el puro encanto\n que desprende. Verla sonreír de algún modo me da energía, tanto física como\nmentalmente.",
+            "choice_data_list": [
+                "(Quizás pueda esperar un poco mi trabajo...)",
+                "(Quizás pueda esperar un poco mi trabajo...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aunque no puedo quedarme hasta el final, le doy un aplauso como agradecimiento\npor su actuación energizante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Finalmente llega el día de las pruebas. Emocionado por ver qué traerá \nla nueva camada de corredoras, me dirijo a la academia con el ánimo en alto."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Voz, comprobada. Micrófono, comprobado. Parlantes, comprobados.\n¡Perfecto! ¡Creo que estoy lista! ☆",
+            "choice_data_list": [
+                "(Espera, ¿no la vi ayer?)"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Holaaa a todoooos! ¡Perdón por hacerles esperar!\n¡Soy yo, Smart Falcon! ¡Espero hacerles latir el corazón hoy! ☆",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Es hora del show especial de Falco, así que aquí vamos~\n¡Primero, quiero escuchar a—"
+        },
+        {
+            "text": "¡Espera, waaaah?! ¡Eres la persona de ayer!",
+            "name": "Smart Falcon"
+        },
+        {
+            "text": "¡El primer miembro del Falco Fan Club!",
+            "name": "Smart Falcon",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Woooow, qué coincidencia! ☆ ¡En realidad quería hablar contigo!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Pero te fuiste a mitad de mi show, así que perdí mi oportunidad. Me puse un poco\ntriste porque no te quedaste hasta el final, pero gracias por los aplausos! ☆",
+            "choice_data_list": [
+                "E-espera un segundo..."
+            ]
+        },
+        {
+            "name": "Profesor A",
+            "text": "¿¡Q-qué— Smart Falcon!? ¿¡Otra vez estás haciendo uno de tus conciertos relámpago?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ups, me atrapó otra vez. ☆"
+        },
+        {
+            "name": "Profesor A",
+            "text": "¡Esta es la decimoquinta vez este mes!\n¡Me vas a volver loca con todos esos actos “lindos y brillantes” tuyos!"
+        },
+        {
+            "text": "Oh, eh, ¡parece que te has vuelto fan! ¡Gracias por tu apoyo! ☆\n¡Pero no puedo decir que me guste esa actitud enojada! ☆",
+            "name": "Smart Falcon"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Dicho eso, ¡tengo que correr! ♪ ¡Vamos! ¡Vienes conmigo!",
+            "choice_data_list": [
+                "¿¡Eh!?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "No tengo idea de lo que está pasando. Arrastrado por el momento,\ntermino siguiendo a Smart<n>Falcon."
+        },
+        {
+            "name": "Profesor A",
+            "text": "¡Oye! ¡Vuelve aquí!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Uf...</i> Creo que la perdimos. Deberíamos<n>estar a salvo ahora. ☆",
+            "choice_data_list": [
+                "<i>Jadeo... jadeo...</i>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Vaya, eso fue agotador! ☆ ¿Estás bien? ¡Gracias por quedarte conmigo! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Permíteme presentarme de nuevo! Me llamo<n>Smart Falcon, ¡y soy una Umadol!\nPero puedes<n>llamarme Falco. ♪",
+            "choice_data_list": [
+                "¿Uma qué?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Una Umadol —¡una idol Umamusume! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Las Umadol corren como las Umamusume normales... pero también inspiran a su público\ndurante los conciertos de victoria al brillar en el escenario— ¡como una idol!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Mi sueño es llegar a ser una gran Umadol algún día.\nPor eso hago lo que puedo para darlo a conocer todos los días. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Pero bueno... ahora mismo no tengo entrenador, así que no creo que\nvaya a correr pronto, y mucho menos a dar conciertos..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Espera... un momento!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Eemm... ¿E-eres... como... uun... un entrenador?!",
+            "choice_data_list": [
+                "Lo soy."
+            ]
+        },
+        {
+            "text": "¡Wow!",
+            "name": "Smart Falcon"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Yay! ¡Creo que mi suerte por fin cambió!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¿Quién iba a pensar que mi primer fan sería un entrenador?!\n¡Qué giro tan dramático—perfecto para una Umadol! ☆",
+            "choice_data_list": [
+                "Ehhh..."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Bien, ¡aquí tienes tu contrato! ¡Solo tienes que<n>firmar!",
+            "choice_data_list": [
+                "¡¿Eh?!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¿No tienes bolígrafo? ¡No importa! Me aseguro de llevar uno conmigo en todo\nmomento, junto con un contrato completo. ¡Al fin y al cabo, nunca sabes cuándo\npodrías ser descubierta! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A este ritmo, me va a convertir en su entrenador por la fuerza...\nDebería conocerla mejor antes de que esto avance más."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Urk!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¿Q-quieres decir... en una carrera? ¿Como una de<n>las de hoy?",
+            "choice_data_list": [
+                "Sí. ¿Vas a participar en las pruebas de hoy?",
+                "Sí. ¿Vas a participar en las pruebas de hoy?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Em... sí... Técnicamente hablando...",
+            "choice_data_list": [
+                "Entonces está decidido."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aw... Pensé que podría convencerte solo con mis buenas<n>vibras..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Argh! ¡Lo que sea! ¡Yo puedo con esto! ¡Raaaagh! ☆",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Está bien, ¡correré! Pero tienes que prometer\nque me vas a mirar todo el tiempo, ¿entendido? ☆"
+        },
+        {
+            "text": "Parece que Smart Falcon se está esforzando un poco demasiado por animarse.\nJusto cuando estoy a punto de<n>preguntarle por qué—",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Profesor A",
+            "text": "¡Vuelve aquí! ¡Smaaart Faaalcooon!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "¡Guau, se está volviendo más rápida! Perdón, pero<n>tengo que irme ahora.\n¡Nos vemos!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Al final, decido ver qué tan bien corre en la pista\nesta autoproclamada Umadol."
+        }
+    ]
+}
